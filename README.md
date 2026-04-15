@@ -11,10 +11,10 @@
 Implementación de una lista doblemente enlazada circular en Java con operaciones de inserción, eliminación, búsqueda e impresión.
 
 ## Video Explicativo
-[Enlace a YouTube o Google Drive]
+
 
 ## Instrucciones de Compilación y Ejecución
-```bash
+
 javac Nodo.java ListaDobleCircular.java Main.java
 java Main
 
