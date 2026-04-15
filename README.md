@@ -13,9 +13,5 @@ Implementación de una lista doblemente enlazada circular en Java con operacione
 ## Video Explicativo
 
 
-## Instrucciones de Compilación y Ejecución
-
-javac Nodo.java ListaDobleCircular.java Main.java
-java Main
 
 
